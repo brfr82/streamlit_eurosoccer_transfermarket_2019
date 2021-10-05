@@ -1,0 +1,556 @@
+Source,Target,Weight
+Hoffenheim,Borussia Dortmund,25000000
+Bristol City,Bournemouth,14800000
+Bayer Leverkusen,Borussia Dortmund,25000000
+Borussia Mönchengladbac,Borussia Dortmund,25500000
+Groningen,Sampdoria,3700000
+Rennes,Osasuna,2000000
+Las Palmas,Eibar,3000000
+Atlético Madri,Bayern Munich,80000000
+Ajax,Barcelona,75000000
+Stuttgart,Bayern Munich,35000000
+Red Bull Salzburg,RB Leipzig,12250000
+Red Bull Salzburg,Sevilla,15000000
+Porto,Real Madrid,50000000
+Fiorentina,Brentford,3170000
+Chelsea,Torino,10000000
+Porto,Atlético Madri,20000000
+Montpellier,Huddersfield,34000000
+Paderborn,Stuttgart,2550000
+Hoffenheim,Bayer Leverkusen,32000000
+Torino,Rennes,15000000
+PEC Zwolle,Cologne,3000000
+West Ham United,Mainz 05,9000000
+Benfica,Wolverhampton Wanderers,33800000
+Villarreal,Bologna,7500000
+Villarreal,Bologna,7500000
+Juventus,Verona,1100000
+Sporting,Legané,3000000
+Nantes,Sevilla,15000000
+Augsburg,Freiburg,4000000
+Wolfsburg,Charleroi,3550000
+Union Berlin,Augsburg,1000000
+Bayern Munich,Werder Bremen,3500000
+Bayern Munich,Mainz 05,1200000
+Barcelona,Eibar,2000000
+Cologne,Amiens,6000000
+Torino,Corinthians,1500000
+Eintracht Frankfurt,Real Madrid,65000000
+Juventus,Cagliari,9000000
+Sassuolo,Genoa,8000000
+Venezia,Genoa,3000000
+Espanyol,Mainz 05,6000000
+Bordeaux,Genoa,7000000
+Birmingham City,Aston Villa,4500000
+Palmeiras,RB Leipzig,8000000
+Eintracht Frankfurt,LDU Quito,450000
+Young Boys,Wolfsburg,9200000
+Benfica,Eintracht Frankfurt,5000000
+Hamburg,Eintracht Frankfurt,6000000
+Hannover,Werder Bremen,6500000
+Jahn Regensburg,Hoffenheim,1500000
+Hannover,Hoffenheim,8500000
+Paderborn,Schalke 04,2500000
+Swansea,Manchester United,16900000
+Empoli,Napoli,9600000
+Nantes,Torino,4500000
+Chelsea,Real Madrid,99450000
+Alcorcó,Legané,1500000
+Lille,Aston Villa,9000000
+Ingolstadt,Wolfsburg,2000000
+Borussia Dortmund,Real Sociedad,8000000
+Lyon,Real Madrid,49400000
+Real Betis,Levante,4000000
+Toulouse,Montpellier,6000000
+Standard Lièg,Southampton,15700000
+Ajaccio,Metz,3000000
+Nuremberg,Hertha Berlin,7000000
+Santos,Real Madrid,45000000
+Notts County,Tottenham Hotspur,250000
+Monaco,Mainz 05,6000000
+Club Brugge,Aston Villa,24750000
+Tokyo FC,Real Madrid,2000000
+Villarreal,West Ham United,26950000
+Tigre,Alavé,2250000
+Real Sociedad,Real Betis,8000000
+Paris Saint-Germain,Bayer Leverkusen,15000000
+Olympiakos,Reims,4000000
+Red Star Belgrade,Eintracht Frankfurt,4000000
+Milan,Palmeiras,4500000
+Wolverhampton Wanderers,Aston Villa,3370000
+Arsenal,Napoli,3930000
+Hoffenheim,Nuremberg,500000
+Heidenheim,Union Berlin,1000000
+Gent,Cologne,3500000
+Ajax,Bayer Leverkusen,5000000
+Luzern,Augsburg,2500000
+Red Star Belgrade,Fiorentina,1500000
+Inter,Torino,2500000
+Nottingham Forest,Lecce,560000
+Torino,Besiktas,6700000
+Juventus,Sampdoria,20000000
+Juventus,Genoa,16500000
+Atlético Madri,Kayserispor,3300000
+Atlético Madri,Sporting CP,7500000
+Cádi,Valencia,6000000
+Tenerife,Valencia,2000000
+Hannover,Augsburg,1900000
+Paris Saint-Germain,Real Betis,22200000
+Lens,Real Sociedad,4500000
+Eibar,Real Valladolid,1000000
+Girona,Real Sociedad,10000000
+Paris Saint-Germain,Lens,1000000
+Freiburg,Young Boys,2000000
+Everton,CSKA Moscow,13500000
+Bayern Munich,Borussia Dortmund,38000000
+Red Bull Salzburg,Borussia Mönchengladbac,12000000
+Bayern Munich,Freiburg,1000000
+Sassuolo,Inter,20000000
+Genoa,Inter,8000000
+Juventus,Bologna,15000000
+Napoli,Benevento,1500000
+Real Madrid,Atlético Madri,40000000
+Mainz 05,Union Berlin,2000000
+Lyon,Montpellier,1200000
+Saint-Etienne,Metz,1000000
+Roma,Spartak Moscow,6000000
+Levante,Osasuna,3000000
+Sevilla,Atalanta,18000000
+Anderlecht,Nantes,750000
+Portsmouth,Brighton,5600000
+Toulouse,Lens,1000000
+Lyon,Gent,1000000
+PAOK Salonika,Toulouse,3500000
+Internacional,Augsburg,7000000
+Maccabi Tel Aviv,Reims,4500000
+Münste,Mainz 05,350000
+Chievo,Sampdoria,5000000
+Chievo,Bologna,3000000
+Deportivo Lara,Eibar,3000000
+Marseille,Trabzonspor,500000
+Sevilla,Ajax,15800000
+Nimes,Lorient,1500000
+Flamengo,Lyon,8000000
+Barcelona,Osasuna,2500000
+Barcelona,Everton,24570000
+Barcelona,Valencia,30000000
+Red Bull Salzburg,SPAL,3000000
+Genk,Brighton,16700000
+Red Bull Salzburg,Wolfsburg,12000000
+Chievo,Real Mallorca,1500000
+Villarreal,Olympiacos,5000000
+PEC Zwolle,Liverpool,1450000
+Valencia,Barcelona,26000000
+San Lorenzo,Osasuna,2700000
+Nordsjællan,Augsburg,2000000
+Young Boys,Eintracht Frankfurt,9000000
+Crotone,Real Mallorca,2600000
+Dinamo Zagreb,Verona,2100000
+Eibar,Sevilla,15000000
+Dijon,Sporting CP,8000000
+Hamburg,Bayern Munich,3000000
+Liverpool,Sporting CP,5500000
+Toulouse,Celtic,8000000
+Dijon,Freiburg,3000000
+RB Leipzig,PSV Eindhoven,15000000
+Bayer Leverkusen,Groningen,1120000
+Schalke 04,Borussia Mönchengladbac,10000000
+Fortuna Düsseldor,Hannover,1750000
+Luton Town,Leicester City,9000000
+Parma,Inter,6500000
+Inter,Standard Lièg,12500000
+Athletico Paranaense,Atlético Madri,25000000
+Villarreal,Valencia,6000000
+Crystal Palace,Manchester United,50200000
+Paris Saint-Germain,Lille,9000000
+Udinese,Sampdoria,15000000
+Atalanta,Roma,15000000
+Bologna,Sampdoria,4500000
+Verona,SPAL,2000000
+Valencia,Torino,15600000
+Manchester City,Metz,2500000
+Steaua Bucharest,Lecce,2000000
+Atalanta,SPAL,12000000
+Chievo,Cagliari,900000
+Stuttgart,Schalke 04,15000000
+Roma,Napoli,36000000
+Barcelona,Celta Vigo,15000000
+Roma,Juventus,22000000
+Juventus,Roma,29500000
+Anderlecht,Wolverhampton Wanderers,13400000
+Napoli,Roma,21000000
+Southampton,Aston Villa,15600000
+Valencia,Levante,5000000
+Málag,Getafe,1500000
+Almerí,Alavé,1500000
+Birmingham,Southampton,16700000
+Verona,SPAL,3000000
+Caen,Aston Villa,5500000
+Wellington Phoenix,Bayern Munich,650000
+West Bromwich Albion,Watford,6100000
+Hertha Berlin,Inter,22000000
+Liverpool,Southampton,20100000
+Real Madrid,Chelsea,45000000
+Atlético Madri,Monaco,22000000
+PSV Eindhoven,Sevilla,12500000
+Chelsea,Bristol City,9000000
+Leeds United,Tottenham Hotspur,11200000
+Sevilla,Paris Saint-Germain,18000000
+Ituano,Arsenal,6700000
+Lyon,Tottenham Hotspur,62000000
+Nimes,Montpellier,10000000
+Lens,Strasbourg,2500000
+Palermo,Amiens,2500000
+Nancy,Nantes,1100000
+Juventus,Sassuolo,2000000
+Lille,Lyon,25000000
+Huesca,Levante,3600000
+Toulouse,Galatasaray,1375000
+Bordeaux,Sevilla,25000000
+Bayer Leverkusen,Eintracht Frankfurt,10000000
+QPR,Sheffield United,5500000
+FC Liefering,Amiens,200000
+Atlético Madri,Manchester City,70000000
+Zaglebie Lubin,Genoa,1200000
+Lille,Lyon,9000000
+FK Renova,Nimes,1500000
+PSV Eindhoven,Manchester City,5900000
+Benfica,Atlético Madri,126000000
+Real Madrid,Benfica,20000000
+Marseille,Sevilla,13000000
+Newcastle United,Leicester City,33400000
+Porto,Legané,1000000
+Napoli,Villarreal,4000000
+Parma,Spezia,500000
+Paris Saint-Germain,Lokomotiv Moscow,12500000
+Peñaro,Celta Vigo,4000000
+Girona,Alavé,2000000
+Eibar,Villarreal,8000000
+Excelsior Rotterdam,Bologna,3000000
+FC Copenhagen,Lazio,11700000
+Fortuna Düsseldor,Schalke 04,13000000
+Sochaux,Inter,4500000
+Sassuolo,Juventus,18000000
+Monaco,Brest,2000000
+Caen,Strasbourg,4000000
+Alanyaspor,Sassuolo,9250000
+Dijon,Midtjylland,3300000
+Augsburg,Union Berlin,2000000
+Barcelona,Saint-Etienne,3000000
+Udinese,Vancouver Whitecaps,2650000
+Partick Thistle,Norwich City,385000
+Club Brugge,Bologna,7000000
+Real Madrid,Milan,20000000
+Bahia,Udinese,1600000
+Empoli,Fiorentina,1100000
+Nacional,Cagliari,5000000
+Perugia,Verona,2000000
+Benfica,Verona,3000000
+West Ham United,Shanghai SIPG,25000000
+Roma,Shanghai Shenhua,16000000
+Luton Town,Bournemouth,4400000
+Stoke City,Burnley,1650000
+Monaco,Leicester City,44600000
+Bournemouth,Aston Villa,29570000
+Huesca,Getafe,6000000
+Empoli,Milan,8000000
+Angers,Rennes,9500000
+Nimes,Saint-Etienne,4500000
+Wolfsburg,Anderlecht,5000000
+West Bromwich Albion,Burnley,11130000
+Sint-Truiden,Bologna,7000000
+Freiburg,Nuremberg,450000
+Bologna,Standard Lièg,3500000
+Celta Vigo,Brentford,3850000
+Real Betis,Roma,26120000
+Brentford,Aston Villa,13300000
+Waasland-Beveren,Fortuna Düsseldor,4000000
+Roma,Porto,5000000
+West Brom,Barcelona,275000
+Milan,Sassuolo,9900000
+FC Copenhagen,Brescia,5000000
+Benfica,Atlético Madri,7000000
+Genk,Celta Vigo,5000000
+Crotone,Brescia,900000
+Lazio,SPAL,7000000
+SPAL,Lazio,17000000
+Kashima Antlers,Barcelona,2000000
+Sampdoria,Lyon,24000000
+Valenciennes,Angers,1500000
+Celta Vigo,KV Oostende,500000
+Atlético Madri,Barcelona,120000000
+Preston North End,Sheffield United,8900000
+Galatasaray,Sevilla,4500000
+Roma,Flamengo,10000000
+Montpellier,Genclerbirligi,600000
+Atalanta,Milan,24000000
+Cittadella,Atalanta,5000000
+Genoa,Juventus,26000000
+Valencia,Getafe,5000000
+Bologna,Rangers,4500000
+Empoli,Sassuolo,7500000
+SPAL,Bari,1500000
+SPAL,Napoli,3000000
+Juventus,Empoli,7500000
+Deportivo,Eibar,3500000
+Deportivo,Eibar,5000000
+Southampton,Blackburn,5500000
+Pogon Szczecin,Cagliari,4000000
+Rio Ave,Lille,6000000
+Metz,Legia Warsaw,800000
+SCC Mohammédi,Lille,600000
+Chievo,Bologna,1000000
+Genoa,Juventus,4500000
+Inter,Albacete,2500000
+Braga,Lazio,7700000
+Braga,Lazio,4500000
+Celta Vigo,Valencia,14500000
+Vélez Sarsfiel,Espanyol,10000000
+Porto,Sevilla,12000000
+Montpellier,Monaco,13000000
+Everton,Wigan,2200000
+Manchester City,Everton,9350000
+West Ham United,Norwich City,830000
+Guingamp,Nantes,3000000
+Genk,Atalanta,13700000
+Eibar,Barcelona,4000000
+Borussia Dortmund,Paris Saint-Germain,32000000
+Eintracht Frankfurt,West Ham United,45000000
+Chievo,Lazio,750000
+Tottenham Hotspur,Atlético Madri,22200000
+Udinese,Nantes,1500000
+Nice,PSV Eindhoven,2000000
+Roma,AEK Athens,1000000
+Rennes,Lille,8000000
+Ajax,Juventus,75000000
+Espanyol,Atlético Madri,25000000
+Sevilla,Granada,2000000
+Almerí,Sevilla,1500000
+Verona,Udinese,1000000
+Paris Saint-Germain,RB Leipzig,13000000
+Inter,Genoa,8000000
+Genoa,Inter,12000000
+Sporting Gijó,Villarreal,3000000
+Sporting Gijó,Real Betis,5000000
+Manchester City,Brighton,2780000
+Cardiff,Dijon,2000000
+Chelsea,Hertha Berlin,2500000
+Manchester City,Sporting Gijó,4000000
+Hajduk Split,Lille,6500000
+Real Madrid,Udinese,1500000
+Gamba Osaka,Bordeaux,3000000
+KS Samara,Toulouse,2500000
+Napoli,Benfica,17000000
+Bournemouth,Sheffield United,11100000
+Al Ahli,Brescia,1000000
+Guingamp,Borussia Mönchengladbac,12000000
+Bologna,Amiens,2000000
+Nice,Brest,2000000
+PSV Eindhoven,Lyon,220000
+Lyon,Juventus,400000
+Lyon,Real Betis,19750000
+Sporting CP,Granada,3000000
+Monaco,Lorient,1500000
+Málag,Lazio,2500000
+Hoffenheim,Newcastle United,44630000
+Nimes,Angers,3500000
+Tottenham Hotspur,Monterrey,7000000
+Fenerbahce,Napoli,16000000
+Kasimpasa,Aston Villa,9800000
+Real Betis,Eibar,2000000
+Nordsjaelland,Bologna,6000000
+West Ham United,Sassuolo,8000000
+Middlesbrough,Legané,6000000
+Everton,RB Leipzig,25000000
+Swansea,Crystal Palace,3300000
+Marseille,Dynamo Moscow,5500000
+Saint-Etienne,Krasnodar,12000000
+Real Madrid,Arsenal,16500000
+Manchester City,Aston Villa,16500000
+Saint-Etienne,Arsenal,30000000
+Málag,Legané,1200000
+Nottingham Forest,Sheffield United,3850000
+West Ham United,Middlesbrough,550000
+Parma,Empoli,2500000
+Fiorentina,Palmeiras,5500000
+Inter,Genoa,2500000
+Sassuolo,Empoli,1000000
+Bayern Munich,Stuttgart,1500000
+Real Betis,Saint-Etienne,3500000
+Borussia Dortmund,Eintracht Frankfurt,4000000
+Union Berlin,Arminia Bielefeld,1100000
+Copenhagen,Hoffenheim,10000000
+Udinese,Granada,2500000
+Real Sociedad,Al-Gharafa,3000000
+Huddersfield,Bournemouth,16450000
+Montpellier,Cologne,6000000
+Everton,Paris Saint-Germain,32000000
+Brighton,Fortuna Düsseldor,2220000
+Hoffenheim,Bayer Leverkusen,11000000
+Clermont,Angers,2000000
+Milan,Wolverhampton Wanderers,17670000
+Hannover,RB Leipzig,200000
+Sassuolo,Fiorentina,1000000
+Radnik,Real Mallorca,1500000
+Burnley,Aston Villa,8780000
+Club Brugge,Bournemouth,14250000
+Genoa,Ahli,1000000
+Pescara,Parma,2500000
+Club Brugge,Aston Villa,12100000
+Chelsea,Bristol City,3850000
+Charleroi,Lille,12000000
+Lille,Arsenal,80000000
+Augsburg,Eintracht Frankfurt,12000000
+Watford,Hertha Berlin,20000000
+Lille,Milan,35000000
+Caen,Getafe,4000000
+Swansea,Sheffield United,19600000
+Arsenal,Derby,8250000
+Arsenal,Partizan Belgrade,1000000
+Barcelona,Zenit,40000000
+Leeds,Burnley,3500000
+Nice,Newcastle United,18000000
+West Ham United,Augsburg,4000000
+Mainz 05,Everton,25000000
+Lazio,Wolverhampton Wanderers,12000000
+Lazio,Wolverhampton Wanderers,8000000
+Bristol City,Brighton,22000000
+Dijon,Toulouse,8000000
+Juventus,Everton,32000000
+Real Betis,Barcelona,18000000
+Empoli,Milan,16000000
+Liverpool,Club Brügg,6950000
+Leicester City,Manchester United,87000000
+Boca Juniors,Marseille,16000000
+Brentford,Brighton,21700000
+Monaco,Bristol City,8000000
+Rennes,Augsburg,7000000
+Arsenal,Bordeaux,5000000
+Anderlecht,Cologne,6000000
+Trabzonspor,Lille,16500000
+Flamengo,Saint-Etienne,1100000
+Reims,Rennes,4000000
+Slavia Prague,Brescia,3750000
+Montpellier,Monaco,10000000
+Châteaurou,Nimes,2000000
+Villarreal,Besiktas,2000000
+Paris Saint-Germain,Eintracht Frankfurt,9000000
+Flamengo,Milan,11000000
+Juventus,Manchester City,65000000
+Manchester City,Juventus,35000000
+Inter,Reading,8000000
+Feyenoord,Mainz 05,8000000
+Everton,Crystal Palace,3300000
+Basel,West Ham United,8700000
+Amiens,Newcastle United,5400000
+Bologna,Bristol City,2500000
+Arsenal,Brentford,3300000
+Paris Saint-Germain,Charleroi,1500000
+Southampton,West Brom,4500000
+Rennes,Watford,33000000
+Manchester United,Inter,75800000
+Celtic,Arsenal,27000000
+Fulham,Tottenham Hotspur,27100000
+Sampdoria,Leicester City,19500000
+Chelsea,Arsenal,8800000
+Girona,Manchester City,12000000
+Arsenal,Everton,30800000
+Celta Vigo,Osasuna,250000
+Caen,Angers,3500000
+Borussia Dortmund,Dynamo Moscow,20000000
+Borussia Dortmund,Real Zaragoza,2000000
+Ajax,Genoa,1500000
+Rayo Vallecano,Amiens,3000000
+Boca Juniors,Cagliari,18000000
+Bologna,Fiorentina,10000000
+Monaco,Manchester United,5000000
+Dijon,Al-Ettifaq,4850000
+Hannover,Udinese,6000000
+Monaco,Brest,1000000
+Everton,Monaco,13500000
+Chievo,Sampdoria,2500000
+Sevilla,Red Bull Salzburg,12000000
+Getafe,Osasuna,2000000
+Chelsea,Legané,5000000
+Motherwell,Norwich City,265000
+Rennes,Borussia Mönchengladbac,10000000
+Sevilla,Monaco,40000000
+Monaco,Sevilla,20000000
+Espanyol,Real Betis,20000000
+Legané,Girona,500000
+Angers,Lyon,25000000
+RB Salzburg,Hoffenheim,14000000
+Genclerbirligi,Roma,3000000
+Barcelona,Bayern Munich,8500000
+Borussia Mönchengladbac,Bayern Munich,12000000
+Udinese,Perugia,1000000
+SPAL,Dijon,1500000
+Auxerre,Nimes,4000000
+Rapid Vienna,Sassuolo,5000000
+Málag,Villarreal,7500000
+Rayo Vallecano,Real Betis,7500000
+Angers,Hatta,1500000
+Guingamp,Nimes,1000000
+HJK Helsinki,Bologna,1000000
+Virtus Entella,Brescia,900000
+Tottenham Hotspur,Besiktas,5000000
+Cagliari,Salernitana,500000
+Guingamp,Real Mallorca,2000000
+Virtus Entella,Fiorentina,600000
+Piast Gliwice,Lazio,2000000
+PSV,Napoli,38000000
+Bayern Munich,Lille,25000000
+Bordeaux,Almerí,750000
+Alavé,Monaco,15000000
+Sporting,Eintracht Frankfurt,7000000
+Bordeaux,Aris Saloniki,500000
+Sturm Graz,Reims,3000000
+St Gallen,Reims,1770000
+Atlético Huil,Fiorentina,2500000
+Nantes,Al-Ahli,6000000
+Milan,Hajduk Split,500000
+Parma,Pescara,500000
+Pescara,Parma,2000000
+Club Brugge,Bordeaux,200000
+Besiktas,Bologna,2000000
+Nimes,Angers,1500000
+Ajax,Nice,20000000
+Lorient,Nice,14000000
+Roma,Spartak Moscow,2000000
+Spezia,Sampdoria,900000
+Roma,Cittadella,500000
+Paris Saint-Germain,Monaco,10000000
+Sampdoria,Ternana,190000
+Vélez Sarsfiel,Bologna,7500000
+Francavilla,Napoli,1000000
+Arsenal,Real Sociedad,500000
+Villarreal,Shabab,6000000
+Paris Saint-Germain,Nice,12000000
+Genoa,Dinamo Moscow,500000
+Barcelona,Real Betis,6000000
+Zaragoza,Real Madrid,2500000
+Manchester United,Parma,1500000
+West Ham United,Sevilla,8000000
+Dijon,Caen,2000000
+Fluminense,Fiorentina,14000000
+Hoffenheim,Freiburg,8000000
+Real Madrid,Paris Saint-Germain,15000000
+Parma,Cremonese,1100000
+Marseille,Fenerbahce,6000000
+Paradou AC,Nice,4000000
+Schalke 04,Shakhtar Donetsk,6000000
+Sporting,Valencia,15000000
+Guingamp,Nantes,6500000
+Liverpool,Fiorentina,2000000
+FC Copenhagen,Genoa,2000000
+Sporting,Rennes,18000000
+Legané,Strasbourg,900000
+Chievo,Verona,5000000
+Toulouse,Caen,500000
+Lens,Brest,2000000
+Strasbourg,Rennes,4000000
+Liverpool,Rangers,7250000
+Deportivo,Levante,2500000
+Sassuolo,Lecce,3000000
+Nantes,Marseille,13000000
+Lens,Dijon,3500000
