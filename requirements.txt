@@ -2,5 +2,5 @@ altair
 pandas
 streamlit
 networkx
-bokeh
+bokeh==2.2.2
 matplotlib
