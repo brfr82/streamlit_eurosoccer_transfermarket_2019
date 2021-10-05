@@ -7,8 +7,6 @@ import networkx
 import matplotlib.pyplot as plt
 import numpy as np
 
-pip install bokeh
-
 
 got_df = pd.read_csv('got-edges.csv')
 
