@@ -11,7 +11,7 @@ import numpy as np
 got_df = pd.read_csv('got-edges.csv')
 
 
-got_df
+#got_df
 
 G = networkx.from_pandas_edgelist(got_df, 'Source', 'Target', 'Weight')
 
